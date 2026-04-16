@@ -1,12 +1,12 @@
 <br>
 
-# ⭐ **Learning Journey**
+## ⭐ **Learning Journey**
 
-> ### 🎓 Formação Contínua em Dados, Estatística e Machine Learning
+> #### 🎓 Formação Contínua em Dados, Estatística e Machine Learning
 
 <br>
 
-## 📘 **Repositório central da minha jornada de aprendizado contínuo**
+### 📘 **Repositório central da minha jornada de aprendizado contínuo**
  - **Foco**
      - Estatística Aplicada  
      - Data Science  
@@ -22,7 +22,7 @@
 
 <br><br>
 
-## 🧩 **Resumo Executivo**
+### 🧩 **Resumo Executivo**
 
 Este repositório consolida minha jornada de aprendizado técnico e metodológico, reunindo:
 
@@ -38,7 +38,7 @@ Este repositório consolida minha jornada de aprendizado técnico e metodológic
 <br><br>
 
 
-## 🏷️ **Badges (Shields) do Repositório**
+### 🏷️ **Badges (Shields) do Repositório**
 
 ![Learning Journey](https://img.shields.io/badge/Learning%20Journey-Active-blueviolet)
 ![Statistics](https://img.shields.io/badge/Statistics-IBM-blue?logo=python&logoColor=white)
@@ -51,12 +51,12 @@ Este repositório consolida minha jornada de aprendizado técnico e metodológic
 <br><br>
 
 
-## 🧰 **Stack Técnico Consolidado da Jornada**
+### 🧰 **Stack Técnico Consolidado da Jornada**
 
 Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utilizadas ao longo dos meus projetos profissionais (Habix + Olimpo), estudos formais (FM2S, IBM) e projetos práticos (Kaggle, Machine Learning, Engenharia de Dados).
 
 
-### 🧩 **Linguagens e Processamento**
+#### 🧩 **Linguagens e Processamento**
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?logo=postgresql)
 ![DAX](https://img.shields.io/badge/DAX-Power%20BI-yellow)
@@ -68,7 +68,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 🗄️ **Bancos de Dados e Armazenamento**
+#### 🗄️ **Bancos de Dados e Armazenamento**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-blue?logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Relational-yellow?logo=microsoft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Lakehouse-purple)
@@ -83,7 +83,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 🏗️ **Engenharia de Dados**
+#### 🏗️ **Engenharia de Dados**
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 ![WSL](https://img.shields.io/badge/WSL2-Linux%20Subsystem-green)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
@@ -99,7 +99,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 🔌 **Integrações e APIs**
+#### 🔌 **Integrações e APIs**
 ![API](https://img.shields.io/badge/APIs-REST-blue)
 ![Sienge](https://img.shields.io/badge/Sienge-ERP-orange)
 ![CRM](https://img.shields.io/badge/CRM-Integrations-green)
@@ -111,7 +111,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 📊 **Business Intelligence**
+#### 📊 **Business Intelligence**
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi)  
 
 - Dashboards executivos (FP&A, vendas, jurídico, inadimplência)
@@ -121,7 +121,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 📈 **Machine Learning e Estatística**
+#### 📈 **Machine Learning e Estatística**
 ![Kaggle](https://img.shields.io/badge/Kaggle-ML-blue?logo=kaggle)
 ![IBM](https://img.shields.io/badge/IBM-Statistics-blue)
 
@@ -133,7 +133,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 🧪 **Ambiente e Ferramentas**
+#### 🧪 **Ambiente e Ferramentas**
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![GitLFS](https://img.shields.io/badge/Git%20LFS-Large%20Files-blue)
 
@@ -144,7 +144,7 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 <br>
 
-### 🧭 **Metodologias e Processos**
+#### 🧭 **Metodologias e Processos**
 ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Yellow%20Belt-yellow)
 ![DMAIC](https://img.shields.io/badge/DMAIC-Process%20Improvement-green)
 
@@ -160,10 +160,10 @@ Este stack reúne **`todas as tecnologias, ferramentas e metodologias`** utiliza
 
 
 
-> ### 🎯 **Cursos, Projetos e Certificações**
+> #### 🎯 **Cursos, Projetos e Certificações**
 
 
-## 📊 **1. Statistics for Data Science with Python — IBM**  
+### 📊 **1. Statistics for Data Science with Python — IBM**  
 _Repositório: https://github.com/IncomeView/IBM_statistics_
 
 
@@ -186,7 +186,7 @@ _Repositório: https://github.com/IncomeView/IBM_statistics_
 
 <br>
 
-## 🧠 **2. Machine Learning Explainability — Kaggle**  
+### 🧠 **2. Machine Learning Explainability — Kaggle**  
 _Repositório: https://github.com/IncomeView/kaggle_machineLearningExplainability_
 
 - **Descrição**
@@ -203,7 +203,7 @@ _Repositório: https://github.com/IncomeView/kaggle_machineLearningExplainabilit
 
 <br>
 
-## 🤖 **3. Intermediate Machine Learning — Kaggle**  
+### 🤖 **3. Intermediate Machine Learning — Kaggle**  
 _Repositório: https://github.com/IncomeView/kaggle_intermediateMachineLearning_
 
 - **Descrição**
@@ -222,7 +222,7 @@ _Repositório: https://github.com/IncomeView/kaggle_intermediateMachineLearning_
 
 <br>
 
-## 🧹 **4. Data Cleaning com Python — Kaggle Learn**  
+### 🧹 **4. Data Cleaning com Python — Kaggle Learn**  
 _Repositório: https://github.com/IncomeView/kaggle_dataCleaning_
 
 - **Descrição**
@@ -246,7 +246,7 @@ _Repositório: https://github.com/IncomeView/kaggle_dataCleaning_
 
 <br>
 
-## 🟡 **5. Lean Six Sigma – Yellow Belt (FM2S)**  
+### 🟡 **5. Lean Six Sigma – Yellow Belt (FM2S)**  
 _Certificação concluída em 12/03/2026_
 
 - **Descrição**  
@@ -275,7 +275,7 @@ _Certificação concluída em 12/03/2026_
 <br><br>
 
 
-## 🚀 **Roadmap de Aprendizado (2026–2027)**
+### 🚀 **Roadmap de Aprendizado (2026–2027)**
 
 - Machine Learning Avançado  
 - Deep Learning (PyTorch)  
@@ -287,7 +287,7 @@ _Certificação concluída em 12/03/2026_
 
 <br><br>
 
-## 📚 **Objetivo do Repositório**
+### 📚 **Objetivo do Repositório**
 
 - Este repositório serve como:
     - portfólio educacional  
