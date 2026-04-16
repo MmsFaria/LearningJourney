@@ -8,11 +8,11 @@
 
 ## 📘 **Repositório central da minha jornada de aprendizado contínuo**
  - **Foco**
-     - Lean Six Sigma  
      - Estatística Aplicada  
      - Data Science  
      - Machine Learning  
      - Engenharia de Dados  
+     - Lean Six Sigma  
  - **Formato**
      - Projetos práticos  
      - Notebooks autorais  
@@ -24,7 +24,7 @@
 
 ## 🧩 **Resumo Executivo**
 
-Este repositório consolida minha jornada de aprendizado técnico e metodológico iniciada em **2026**, reunindo:
+Este repositório consolida minha jornada de aprendizado técnico e metodológico, reunindo:
 
 - certificações formais  
 - projetos completos derivados de cursos  
